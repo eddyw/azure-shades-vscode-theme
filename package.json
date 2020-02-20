@@ -16,6 +16,21 @@
         "label": "Azure Shades – Default",
         "uiTheme": "vs-dark",
         "path": "./themes/Azure Shades – Default-color-theme.json"
+      },
+      {
+        "label": "Azure Shades – Chingu Community",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Azure Shades – Chingu-color-theme.json"
+      },
+      {
+        "label": "Azure Shades – Wine",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Azure Shades – Wine-color-theme.json"
+      },
+      {
+        "label": "Azure Shades – Rose Gold",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Azure Shades – Rose-color-theme.json"
       }
     ]
   },
