@@ -59,7 +59,8 @@
   },
   "scripts": {
     "build": "node ./scripts/generate.js",
-    "package": "vsce package --out azure-shades-vscode.vsix"
+    "package": "vsce package --out azure-shades-vscode.vsix",
+    "publish": "vsce publish"
   },
   "devDependencies": {
     "immer": "^5.3.6",
