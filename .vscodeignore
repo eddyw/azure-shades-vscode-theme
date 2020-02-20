@@ -1,0 +1,9 @@
+.vscode/**
+.vscode-test/**
+.gitignore
+.github/**
+yarn.lock
+template/**
+scripts/**
+vsc-extension-quickstart.md
+node_modules

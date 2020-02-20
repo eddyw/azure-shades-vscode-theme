@@ -1,0 +1,874 @@
+{
+  "name": "Azure Shades – Default",
+  "type": "dark",
+  "colors": {
+    "focusBorder": "<ui-editor-bg__active>",
+    "foreground": "<ui-editor-text>",
+    "activityBar.background": "<ui-editor-bg>",
+    "activityBar.dropBackground": "<ui-editor-bg__active>",
+    "activityBar.foreground": "<ui-editor-text>",
+    "activityBarBadge.background": "<ui-editor-highlight>",
+    "activityBarBadge.foreground": "<ui-editor-bg>",
+    "badge.foreground": "<ui-editor-bg>",
+    "badge.background": "<ui-editor-highlight>",
+    "button.background": "<ui-editor-elements>",
+    "button.foreground": "<ui-editor-text>",
+    "button.hoverBackground": "<ui-editor-elements__hover>",
+    "debugExceptionWidget.background": "<ui-editor-elements__hover>",
+    "debugExceptionWidget.border": "<ui-editor-bg>",
+    "debugToolBar.background": "<ui-editor-bg__active>",
+    "descriptionForeground": "<ui-editor-text>e6",
+    "diffEditor.insertedTextBackground": "<ui-editor-info>33",
+    "diffEditor.removedTextBackground": "<ui-editor-error>4d",
+    "dropdown.background": "<ui-editor-bg__active>",
+    "dropdown.border": "<ui-editor-bg__active>",
+    "dropdown.foreground": "<ui-editor-text>",
+    "editorCursor.foreground": "<ui-editor-text>",
+    "editorHint.border": "<ui-editor-hint>00",
+    "editorHint.foreground": "<ui-editor-hint>",
+    "editorIndentGuide.background": "<ui-editor-elements>b3",
+    "editorIndentGuide.activeBackground": "<ui-editor-elements__hover>",
+    "editorLineNumber.foreground": "<ui-editor-elements__hover>",
+    "editorLineNumber.activeForeground": "<ui-editor-text>",
+    "editorWhitespace.foreground": "<ui-editor-elements__hover>b3",
+    "editorWidget.background": "<ui-editor-bg>",
+    "editorWidget.border": "<ui-editor-bg__active>",
+    "editor.background": "<ui-editor-bg>",
+    "editor.foreground": "<ui-editor-text>",
+    "editor.hoverHighlightBackground": "<ui-editor-bg__active>",
+    "editor.findMatchBackground": "<ui-editor-highlight>66",
+    "editor.findMatchHighlightBackground": "<ui-editor-highlight>33",
+    "editor.findRangeHighlightBackground": "<ui-editor-highlight>33",
+    "editor.lineHighlightBackground": "<ui-editor-bg__active>",
+    "editor.lineHighlightBorder": "<ui-editor-bg__active>",
+    "editor.inactiveSelectionBackground": "<ui-editor-elements>cc",
+    "editor.selectionBackground": "<ui-editor-elements>cc",
+    "editor.selectionHighlightBackground": "<ui-editor-elements>cc",
+    "editor.rangeHighlightBackground": "<ui-editor-elements>52",
+    "editor.wordHighlightBackground": "<ui-editor-info>66",
+    "editor.wordHighlightStrongBackground": "<ui-editor-info>99",
+    "editorError.foreground": "<ui-editor-error>",
+    "editorError.border": "<ui-editor-error>00",
+    "editorWarning.foreground": "<ui-editor-hint>",
+    "editorWarning.border": "<ui-editor-hint>00",
+    "editorBracketMatch.background": "<ui-editor-bg>00",
+    "editorBracketMatch.border": "<ui-editor-highlight>",
+    "editorCodeLens.foreground": "<ui-editor-elements__hover>",
+    "editorGroup.emptyBackground": "<ui-editor-bg>",
+    "editorGroup.border": "<ui-editor-bg__active>01",
+    "editorGroup.dropBackground": "<ui-editor-bg__active>99",
+    "editorGroupHeader.noTabsBackground": "<ui-editor-bg>",
+    "editorGroupHeader.tabsBackground": "<ui-editor-bg>",
+    "editorGroupHeader.tabsBorder": "<ui-editor-bg__active>00",
+    "editorGutter.background": "<ui-editor-bg>",
+    "editorGutter.modifiedBackground": "<ui-editor-hint>",
+    "editorGutter.addedBackground": "<ui-editor-bg__added>",
+    "editorGutter.deletedBackground": "<ui-editor-error>",
+    "editorHoverWidget.background": "<ui-editor-bg__active>",
+    "editorHoverWidget.border": "<ui-editor-bg__active>",
+    "editorLink.activeForeground": "<ui-editor-highlight>",
+    "editorMarkerNavigation.background": "<ui-editor-debug__bg>c0",
+    "editorMarkerNavigationError.background": "<ui-editor-error>c0",
+    "editorMarkerNavigationWarning.background": "<ui-editor-hint>c0",
+    "editorOverviewRuler.border": "<ui-editor-bg__active>",
+    "editorOverviewRuler.currentContentForeground": "<ui-editor-bg__active>",
+    "editorOverviewRuler.incomingContentForeground": "<ui-editor-bg__active>",
+    "editorOverviewRuler.findMatchForeground": "<ui-editor-highlight>66",
+    "editorOverviewRuler.rangeHighlightForeground": "<ui-editor-highlight>66",
+    "editorOverviewRuler.selectionHighlightForeground": "<ui-editor-highlight>66",
+    "editorOverviewRuler.wordHighlightForeground": "<ui-editor-highlight>66",
+    "editorOverviewRuler.wordHighlightStrongForeground": "<ui-editor-highlight>66",
+    "editorOverviewRuler.modifiedForeground": "<ui-editor-hint>",
+    "editorOverviewRuler.addedForeground": "<ui-editor-bg__added>",
+    "editorOverviewRuler.deletedForeground": "<ui-editor-error>",
+    "editorOverviewRuler.errorForeground": "<ui-editor-error>",
+    "editorOverviewRuler.warningForeground": "<ui-editor-hint>",
+    "editorOverviewRuler.infoForeground": "<ui-editor-info>",
+    "editorRuler.foreground": "<ui-editor-elements>",
+    "editorSuggestWidget.background": "<ui-editor-bg>",
+    "editorSuggestWidget.border": "<ui-editor-bg__active>",
+    "editorSuggestWidget.foreground": "<ui-editor-text>",
+    "editorSuggestWidget.highlightForeground": "<ui-editor-highlight>",
+    "editorSuggestWidget.selectedBackground": "<ui-editor-elements>",
+    "extensionButton.prominentForeground": "<ui-editor-text>",
+    "extensionButton.prominentBackground": "<ui-editor-elements>",
+    "extensionButton.prominentHoverBackground": "<ui-editor-elements__hover>",
+    "errorForeground": "<ui-editor-error>",
+    "gitDecoration.modifiedResourceForeground": "<ui-editor-hint>",
+    "gitDecoration.deletedResourceForeground": "<ui-editor-error>",
+    "gitDecoration.untrackedResourceForeground": "<ui-editor-bg__added>",
+    "gitDecoration.ignoredResourceForeground": "<ui-editor-text>66",
+    "gitDecoration.conflictingResourceForeground": "<ui-editor-debug__bg>",
+    "gitDecoration.submoduleResourceForeground": "<ui-editor-sub-module>",
+    "input.background": "<ui-editor-bg__active>",
+    "input.foreground": "<ui-editor-text>",
+    "input.placeholderForeground": "<ui-editor-text>99",
+    "input.border": "<ui-editor-bg__active>",
+    "inputOption.activeBackground": "<ui-editor-debug__bg>",
+    "inputOption.activeBorder": "<ui-editor-debug__bg>",
+    "inputValidation.errorBackground": "<ui-editor-error>",
+    "inputValidation.errorBorder": "<ui-editor-error>",
+    "inputValidation.infoBackground": "<ui-editor-info>",
+    "inputValidation.infoBorder": "<ui-editor-info>",
+    "inputValidation.warningBackground": "<ui-editor-warn>",
+    "inputValidation.warningBorder": "<ui-editor-warn>",
+    "list.activeSelectionBackground": "<ui-editor-highlight>",
+    "list.activeSelectionForeground": "<ui-editor-bg>",
+    "list.inactiveSelectionBackground": "<ui-editor-elements>",
+    "list.inactiveSelectionForeground": "<ui-editor-text>",
+    "list.inactiveFocusBackground": "<ui-editor-elements>cc",
+    "list.hoverForeground": "<ui-editor-text__hover>",
+    "list.focusForeground": "<ui-editor-text>",
+    "list.focusBackground": "<ui-editor-highlight>99",
+    "list.hoverBackground": "<ui-editor-bg__active>",
+    "list.dropBackground": "<ui-editor-highlight>99",
+    "list.highlightForeground": "<ui-editor-highlight>",
+    "list.errorForeground": "<ui-editor-error>",
+    "list.warningForeground": "<ui-editor-hint>",
+    "merge.currentHeaderBackground": "<ui-editor-info>66",
+    "merge.currentContentBackground": "<ui-editor-info>4d",
+    "merge.incomingHeaderBackground": "<ui-editor-sub-module>66",
+    "merge.incomingContentBackground": "<ui-editor-sub-module>4d",
+    "merge.border": "<ui-editor-bg__active>00",
+    "minimap.findMatchHighlight": "<ui-editor-highlight>",
+    "notificationCenter.border": "<ui-editor-bg__active>00",
+    "notificationCenterHeader.background": "<ui-editor-bg>",
+    "notificationCenterHeader.foreground": "<ui-editor-highlight>",
+    "notificationLink.foreground": "<ui-editor-highlight>",
+    "notifications.background": "<ui-editor-bg__active>",
+    "notifications.border": "<ui-editor-bg>",
+    "notifications.foreground": "<ui-editor-text>",
+    "notificationToast.border": "<ui-editor-bg__active>00",
+    "panel.background": "<ui-editor-bg>",
+    "panel.border": "<ui-editor-bg__active>",
+    "panelTitle.activeBorder": "<ui-editor-highlight>00",
+    "panelTitle.activeForeground": "<ui-editor-highlight>",
+    "panelTitle.inactiveForeground": "<ui-editor-text>",
+    "peekView.border": "<ui-editor-elements__hover>",
+    "peekViewEditor.background": "<ui-editor-bg>",
+    "peekViewEditorGutter.background": "<ui-editor-bg>",
+    "peekViewEditor.matchHighlightBackground": "<ui-editor-highlight>4d",
+    "peekViewResult.background": "<ui-editor-bg>",
+    "peekViewResult.fileForeground": "<ui-editor-highlight>",
+    "peekViewResult.lineForeground": "<ui-editor-text>66",
+    "peekViewResult.matchHighlightBackground": "<ui-editor-highlight>cc",
+    "peekViewResult.selectionBackground": "<ui-editor-elements>",
+    "peekViewResult.selectionForeground": "<ui-editor-text>",
+    "peekViewTitle.background": "<ui-editor-bg__active>",
+    "peekViewTitleDescription.foreground": "<ui-editor-text>",
+    "peekViewTitleLabel.foreground": "<ui-editor-highlight>",
+    "pickerGroup.border": "<ui-editor-bg__active>",
+    "pickerGroup.foreground": "<ui-editor-highlight>",
+    "progressBar.background": "<ui-editor-highlight>",
+    "scrollbar.shadow": "<ui-editor-widget__shadow>66",
+    "scrollbarSlider.activeBackground": "<ui-editor-elements>aa",
+    "scrollbarSlider.background": "<ui-editor-elements>99",
+    "scrollbarSlider.hoverBackground": "<ui-editor-elements>aa",
+    "selection.background": "<ui-editor-highlight>99",
+    "sideBar.background": "<ui-editor-bg>",
+    "sideBar.foreground": "<ui-editor-text>",
+    "sideBar.border": "<ui-editor-bg__active>",
+    "sideBarSectionHeader.background": "<ui-editor-bg__active>",
+    "sideBarSectionHeader.foreground": "<ui-editor-text>",
+    "sideBarTitle.foreground": "<ui-editor-text>",
+    "statusBar.background": "<ui-editor-bg__active>",
+    "statusBar.debuggingBackground": "<ui-editor-debug__bg>",
+    "statusBar.debuggingForeground": "<ui-editor-text>",
+    "statusBar.noFolderForeground": "<ui-editor-text>",
+    "statusBar.noFolderBackground": "<ui-editor-bg__active>",
+    "statusBar.foreground": "<ui-editor-text>",
+    "statusBarItem.activeBackground": "<ui-editor-elements__hover>",
+    "statusBarItem.hoverBackground": "<ui-editor-elements>",
+    "statusBarItem.prominentBackground": "<ui-editor-bg__active>",
+    "statusBarItem.prominentHoverBackground": "<ui-editor-elements>",
+    "statusBar.border": "<ui-editor-bg__active>00",
+    "tab.activeBackground": "<ui-editor-bg__active>",
+    "tab.activeForeground": "<ui-editor-text>",
+    "tab.border": "<ui-editor-bg__active>00",
+    "tab.activeBorder": "<ui-editor-highlight>00",
+    "tab.unfocusedActiveBorder": "<ui-editor-highlight>00",
+    "tab.inactiveBackground": "<ui-editor-bg>",
+    "tab.inactiveForeground": "<ui-editor-text>66",
+    "tab.unfocusedActiveForeground": "<ui-editor-text>99",
+    "tab.unfocusedInactiveForeground": "<ui-editor-text>66",
+    "tab.hoverBackground": "<ui-editor-bg__active>cc",
+    "tab.unfocusedHoverBackground": "<ui-editor-bg__active>b3",
+    "tab.hoverBorder": "<ui-editor-highlight>00",
+    "tab.unfocusedHoverBorder": "<ui-editor-highlight>00",
+    "tab.activeBorderTop": "<ui-editor-highlight>00",
+    "tab.unfocusedActiveBorderTop": "<ui-editor-highlight>00",
+    "terminal.background": "<ui-editor-bg>",
+    "terminal.foreground": "<ui-editor-text>",
+    "terminal.ansiBlack": "<terminal-ansiBlack>",
+    "terminal.ansiRed": "<terminal-ansiRed>",
+    "terminal.ansiGreen": "<terminal-ansiGreen>",
+    "terminal.ansiYellow": "<terminal-ansiYellow>",
+    "terminal.ansiBlue": "<terminal-ansiBlue>",
+    "terminal.ansiMagenta": "<terminal-ansiMagenta>",
+    "terminal.ansiCyan": "<terminal-ansiCyan>",
+    "terminal.ansiWhite": "<terminal-ansiWhite>",
+    "terminal.ansiBrightBlack": "<terminal-ansiBrightBlack>",
+    "terminal.ansiBrightRed": "<terminal-ansiBrightRed>",
+    "terminal.ansiBrightGreen": "<terminal-ansiBrightGreen>",
+    "terminal.ansiBrightYellow": "<terminal-ansiBrightYellow>",
+    "terminal.ansiBrightBlue": "<terminal-ansiBrightBlue>",
+    "terminal.ansiBrightMagenta": "<terminal-ansiBrightMagenta>",
+    "terminal.ansiBrightCyan": "<terminal-ansiBrightCyan>",
+    "terminal.ansiBrightWhite": "<terminal-ansiBrightWhite>",
+    "textBlockQuote.background": "<ui-editor-bg__active>",
+    "textBlockQuote.border": "<ui-editor-info>",
+    "textCodeBlock.background": "<ui-editor-elements__hover>",
+    "textLink.activeForeground": "<ui-editor-highlight>",
+    "textLink.foreground": "<ui-editor-highlight>",
+    "textPreformat.foreground": "<ui-editor-sub-module>",
+    "textSeparator.foreground": "<ui-editor-text__hover>",
+    "titleBar.activeBackground": "<ui-editor-bg>",
+    "titleBar.activeForeground": "<ui-editor-text>",
+    "titleBar.border": "<ui-editor-bg>00",
+    "titleBar.inactiveBackground": "<ui-editor-bg>",
+    "titleBar.inactiveForeground": "<ui-editor-text>66",
+    "tree.indentGuidesStroke": "<ui-editor-elements__hover>",
+    "walkThrough.embeddedEditorBackground": "<ui-editor-bg>",
+    "welcomePage.buttonBackground": "<ui-editor-elements>",
+    "welcomePage.buttonHoverBackground": "<ui-editor-elements__hover>",
+    "widget.shadow": "<ui-editor-widget__shadow>66"
+  },
+  "tokenColors": [
+    {
+      "name": "Variable",
+      "scope": "variable.other",
+      "settings": {
+        "foreground": "<token-variable__other>"
+      }
+    },
+    {
+      "name": "Punctuation",
+      "scope": "punctuation",
+      "settings": {
+        "foreground": "<token-punctuation>"
+      }
+    },
+    {
+      "name": "Punctuation Terminator",
+      "scope": "punctuation.terminator",
+      "settings": {
+        "foreground": "<token-punctuation>"
+      }
+    },
+    {
+      "name": "Punctuation Variable",
+      "scope": "punctuation.definition.variable",
+      "settings": {
+        "foreground": "<token-punctuation>"
+      }
+    },
+    {
+      "name": "Punctuation Section Embedded",
+      "scope": [
+        "punctuation.section.embedded.begin",
+        "punctuation.section.embedded.end"
+      ],
+      "settings": {
+        "foreground": "<token-punctuation>"
+      }
+    },
+    {
+      "name": "Punctuation Section",
+      "scope": "punctuation.section",
+      "settings": {
+        "foreground": "<token-punctuation>"
+      }
+    },
+    {
+      "name": "Punctuation Definition Tag",
+      "scope": "punctuation.definition.tag",
+      "settings": {
+        "foreground": "<token-punctuation>"
+      }
+    },
+    {
+      "name": "Punctuation Definition Parameters",
+      "scope": [
+        "punctuation.definition.method-parameters",
+        "punctuation.definition.function-parameters",
+        "punctuation.definition.parameters"
+      ],
+      "settings": {
+        "foreground": "<token-punctuation>"
+      }
+    },
+    {
+      "name": "Variable Parameter",
+      "scope": "variable.parameter",
+      "settings": {
+        "foreground": "<token-variable__parameter>"
+      }
+    },
+    {
+      "scope": [
+        "meta.embedded",
+        "source.groovy.embedded"
+      ],
+      "settings": {
+        "foreground": "<token-symbols>"
+      }
+    },
+    {
+      "scope": "emphasis",
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": "strong",
+      "settings": {
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": "header",
+      "settings": {
+        "foreground": "#000080"
+      }
+    },
+    {
+      "scope": "comment",
+      "settings": {
+        "foreground": "<token-comment>"
+      }
+    },
+    {
+      "name": "Punctuation Definition Comment",
+      "scope": [
+        "punctuation.definition.comment",
+        "punctuation.end.definition.comment",
+        "punctuation.start.definition.comment"
+      ],
+      "settings": {
+        "foreground": "<token-comment>"
+      }
+    },
+    {
+      "scope": "constant.language",
+      "settings": {
+        "foreground": "<token-storage>"
+      }
+    },
+    {
+      "scope": [
+        "constant.numeric",
+        "entity.name.operator.custom-literal.number",
+        "variable.other.enummember",
+        "keyword.operator.plus.exponent",
+        "keyword.operator.minus.exponent"
+      ],
+      "settings": {
+        "foreground": "<token-number>"
+      }
+    },
+    {
+      "scope": "constant.regexp",
+      "settings": {
+        "foreground": "#646695"
+      }
+    },
+    {
+      "scope": "entity.name.tag",
+      "settings": {
+        "foreground": "<token-storage>"
+      }
+    },
+    {
+      "scope": "entity.name.tag.css",
+      "settings": {
+        "foreground": "<token-entity__attribute>"
+      }
+    },
+    {
+      "scope": "entity.other.attribute-name",
+      "settings": {
+        "foreground": "<token-storage__name>"
+      }
+    },
+    {
+      "scope": [
+        "entity.other.attribute-name.class.css",
+        "entity.other.attribute-name.class.mixin.css",
+        "entity.other.attribute-name.id.css",
+        "entity.other.attribute-name.parent-selector.css",
+        "entity.other.attribute-name.pseudo-class.css",
+        "entity.other.attribute-name.pseudo-element.css",
+        "source.css.less entity.other.attribute-name.id",
+        "entity.other.attribute-name.attribute.scss",
+        "entity.other.attribute-name.scss"
+      ],
+      "settings": {
+        "foreground": "<token-entity__attribute>"
+      }
+    },
+    {
+      "scope": "invalid",
+      "settings": {
+        "foreground": "<token-error>"
+      }
+    },
+    {
+      "scope": "markup.underline",
+      "settings": {
+        "fontStyle": "underline"
+      }
+    },
+    {
+      "scope": "markup.bold",
+      "settings": {
+        "foreground": "<token-storage>",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": "markup.heading",
+      "settings": {
+        "foreground": "<token-storage>",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": "markup.italic",
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": "markup.inserted",
+      "settings": {
+        "foreground": "<token-number>"
+      }
+    },
+    {
+      "scope": "markup.deleted",
+      "settings": {
+        "foreground": "<token-strings>"
+      }
+    },
+    {
+      "scope": "markup.changed",
+      "settings": {
+        "foreground": "<token-storage>"
+      }
+    },
+    {
+      "scope": "punctuation.definition.quote.begin.markdown",
+      "settings": {
+        "foreground": "<token-comment>"
+      }
+    },
+    {
+      "scope": "punctuation.definition.list.begin.markdown",
+      "settings": {
+        "foreground": "<token-bullet>"
+      }
+    },
+    {
+      "scope": "markup.inline.raw",
+      "settings": {
+        "foreground": "<token-strings>"
+      }
+    },
+    {
+      "scope": "punctuation.definition.tag",
+      "settings": {
+        "foreground": "<token-tag>"
+      }
+    },
+    {
+      "scope": [
+        "meta.preprocessor",
+        "entity.name.function.preprocessor"
+      ],
+      "settings": {
+        "foreground": "<token-storage>"
+      }
+    },
+    {
+      "scope": "meta.preprocessor.string",
+      "settings": {
+        "foreground": "<token-strings>"
+      }
+    },
+    {
+      "scope": "meta.preprocessor.numeric",
+      "settings": {
+        "foreground": "<token-number>"
+      }
+    },
+		{
+			"scope": "constant.language",
+			"settings": {
+				"foreground": "<token-constant__language>"
+			}
+		},
+    {
+      "scope": "meta.structure.dictionary.key.python",
+      "settings": {
+        "foreground": "<token-storage__name>"
+      }
+    },
+    {
+      "scope": "meta.diff.header",
+      "settings": {
+        "foreground": "<token-storage>"
+      }
+    },
+    {
+      "scope": "storage",
+      "settings": {
+        "foreground": "<token-storage>"
+      }
+    },
+    {
+      "scope": "storage.type",
+      "settings": {
+        "foreground": "<token-storage>"
+      }
+    },
+    {
+      "scope": [
+        "storage.modifier",
+        "keyword.operator.noexcept"
+      ],
+      "settings": {
+        "foreground": "<token-storage>"
+      }
+    },
+    {
+      "scope": [
+        "string",
+        "entity.name.operator.custom-literal.string",
+        "meta.embedded.assembly"
+      ],
+      "settings": {
+        "foreground": "<token-strings>"
+      }
+    },
+    {
+      "scope": "string.tag",
+      "settings": {
+        "foreground": "<token-strings>"
+      }
+    },
+    {
+      "scope": "string.value",
+      "settings": {
+        "foreground": "<token-strings>"
+      }
+    },
+    {
+      "scope": "string.regexp",
+      "settings": {
+        "foreground": "<token-regexp>"
+      }
+    },
+    {
+      "scope": [
+        "punctuation.definition.template-expression.begin",
+        "punctuation.definition.template-expression.end",
+        "punctuation.section.embedded"
+      ],
+      "settings": {
+        "foreground": "<token-storage>"
+      }
+    },
+    {
+      "scope": [
+        "meta.template.expression"
+      ],
+      "settings": {
+        "foreground": "<token-symbols>"
+      }
+    },
+    {
+      "scope": [
+        "support.type.vendored.property-name",
+        "support.type.property-name",
+        "variable.css",
+        "variable.scss",
+        "variable.other.less",
+        "source.coffee.embedded"
+      ],
+      "settings": {
+        "foreground": "<token-storage__name>"
+      }
+    },
+    {
+      "scope": "keyword",
+      "settings": {
+        "foreground": "<token-storage>"
+      }
+    },
+    {
+      "scope": "keyword.control",
+      "settings": {
+        "foreground": "<token-storage>"
+      }
+    },
+    {
+      "scope": "keyword.operator",
+      "settings": {
+        "foreground": "<token-symbols>"
+      }
+    },
+    {
+      "scope": [
+        "keyword.operator.new",
+        "keyword.operator.expression",
+        "keyword.operator.cast",
+        "keyword.operator.sizeof",
+        "keyword.operator.alignof",
+        "keyword.operator.typeid",
+        "keyword.operator.alignas",
+        "keyword.operator.instanceof",
+        "keyword.operator.logical.python",
+        "keyword.operator.wordlike"
+      ],
+      "settings": {
+        "foreground": "<token-storage>"
+      }
+    },
+    {
+      "scope": "keyword.other.unit",
+      "settings": {
+        "foreground": "<token-number>"
+      }
+    },
+    {
+      "scope": [
+        "punctuation.section.embedded.begin.php",
+        "punctuation.section.embedded.end.php"
+      ],
+      "settings": {
+        "foreground": "<token-storage>"
+      }
+    },
+    {
+      "scope": "support.function.git-rebase",
+      "settings": {
+        "foreground": "<token-storage__name>"
+      }
+    },
+    {
+      "scope": "constant.sha.git-rebase",
+      "settings": {
+        "foreground": "<token-number>"
+      }
+    },
+    {
+      "scope": [
+        "storage.modifier.import.java",
+        "variable.language.wildcard.java",
+        "storage.modifier.package.java"
+      ],
+      "settings": {
+        "foreground": "<token-symbols>"
+      }
+    },
+    {
+      "scope": "variable.language",
+      "settings": {
+        "foreground": "<token-storage>"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.function",
+        "support.function",
+        "support.constant.handlebars",
+        "source.powershell variable.other.member",
+        "entity.name.operator.custom-literal"
+      ],
+      "settings": {
+        "foreground": "<token-entity__name>"
+      }
+    },
+    {
+      "scope": [
+        "meta.return-type",
+        "support.class",
+        "support.type",
+        "entity.name.type",
+        "entity.name.namespace",
+        "entity.other.attribute",
+        "entity.name.scope-resolution",
+        "entity.name.class",
+        "storage.type.numeric.go",
+        "storage.type.byte.go",
+        "storage.type.boolean.go",
+        "storage.type.string.go",
+        "storage.type.uintptr.go",
+        "storage.type.error.go",
+        "storage.type.rune.go",
+        "storage.type.cs",
+        "storage.type.generic.cs",
+        "storage.type.modifier.cs",
+        "storage.type.variable.cs",
+        "storage.type.annotation.java",
+        "storage.type.generic.java",
+        "storage.type.java",
+        "storage.type.object.array.java",
+        "storage.type.primitive.array.java",
+        "storage.type.primitive.java",
+        "storage.type.token.java",
+        "storage.type.groovy",
+        "storage.type.annotation.groovy",
+        "storage.type.parameters.groovy",
+        "storage.type.generic.groovy",
+        "storage.type.object.array.groovy",
+        "storage.type.primitive.array.groovy",
+        "storage.type.primitive.groovy"
+      ],
+      "settings": {
+        "foreground": "<token-entity__type>"
+      }
+    },
+    {
+      "scope": [
+        "meta.type.cast.expr",
+        "meta.type.new.expr",
+        "support.constant.math",
+        "support.constant.dom",
+        "support.constant.json",
+        "entity.other.inherited-class"
+      ],
+      "settings": {
+        "foreground": "<token-entity__type>"
+      }
+    },
+    {
+      "scope": [
+        "keyword.control",
+        "source.cpp keyword.operator.new",
+        "keyword.operator.delete",
+        "keyword.other.using",
+        "keyword.other.operator",
+        "entity.name.operator"
+      ],
+      "settings": {
+        "foreground": "<token-control>"
+      }
+    },
+    {
+      "scope": [
+        "variable",
+        "meta.definition.variable.name",
+        "support.variable",
+        "entity.name.variable"
+      ],
+      "settings": {
+        "foreground": "<token-storage__name>"
+      }
+    },
+    {
+      "scope": [
+        "meta.object-literal.key"
+      ],
+      "settings": {
+        "foreground": "<token-object-literal__key>"
+      }
+    },
+    {
+      "scope": [
+        "support.constant.property-value",
+        "support.constant.font-name",
+        "support.constant.media-type",
+        "support.constant.media",
+        "constant.other.color.rgb-value",
+        "constant.other.rgb-value",
+        "support.constant.color"
+      ],
+      "settings": {
+        "foreground": "<token-strings>"
+      }
+    },
+    {
+      "scope": [
+        "punctuation.definition.group.regexp",
+        "punctuation.definition.group.assertion.regexp",
+        "punctuation.definition.character-class.regexp",
+        "punctuation.character.set.begin.regexp",
+        "punctuation.character.set.end.regexp",
+        "keyword.operator.negation.regexp",
+        "support.other.parenthesis.regexp"
+      ],
+      "settings": {
+        "foreground": "<token-strings>"
+      }
+    },
+    {
+      "scope": [
+        "constant.character.character-class.regexp",
+        "constant.other.character-class.set.regexp",
+        "constant.other.character-class.regexp",
+        "constant.character.set.regexp"
+      ],
+      "settings": {
+        "foreground": "<token-regexp>"
+      }
+    },
+    {
+      "scope": [
+        "keyword.operator.or.regexp",
+        "keyword.control.anchor.regexp"
+      ],
+      "settings": {
+        "foreground": "<token-entity__name>"
+      }
+    },
+    {
+      "scope": "keyword.operator.quantifier.regexp",
+      "settings": {
+        "foreground": "<token-entity__attribute>"
+      }
+    },
+    {
+      "scope": "constant.character",
+      "settings": {
+        "foreground": "<token-storage>"
+      }
+    },
+    {
+      "scope": "constant.character.escape",
+      "settings": {
+        "foreground": "<token-entity__attribute>"
+      }
+    },
+    {
+      "scope": "entity.name.label",
+      "settings": {
+        "foreground": "<token-label>"
+      }
+    },
+    {
+      "scope": "token.info-token",
+      "settings": {
+        "foreground": "<token-info>"
+      }
+    },
+    {
+      "scope": "token.warn-token",
+      "settings": {
+        "foreground": "<token-warn>"
+      }
+    },
+    {
+      "scope": "token.error-token",
+      "settings": {
+        "foreground": "<token-error>"
+      }
+    },
+    {
+      "scope": "token.debug-token",
+      "settings": {
+        "foreground": "<token-debug>"
+      }
+    }
+  ]
+}

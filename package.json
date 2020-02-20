@@ -1,0 +1,30 @@
+{
+  "name": "azure-shades",
+  "displayName": "Azure Shades",
+  "description": "Azure Shades is a collection of dark themes using azure colors",
+  "version": "0.0.1",
+  "publisher": "EddyWilson",
+  "engines": {
+    "vscode": "^1.42.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Azure Shades – Default",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Azure Shades – Default-color-theme.json"
+      }
+    ]
+  },
+  "scripts": {
+    "build": "node ./scripts/generate.js",
+    "package": "vsce package --out azure-shades-vscode.vsix"
+  },
+  "devDependencies": {
+    "immer": "^5.3.6",
+    "vsce": "^1.73.0"
+  }
+}
