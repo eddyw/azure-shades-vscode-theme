@@ -1,15 +1,38 @@
 {
   "name": "azure-shades",
   "displayName": "Azure Shades",
-  "description": "Azure Shades is a collection of dark themes using azure colors",
+  "description": "Azure Shades, a collection of dark themes using azure colors",
   "version": "0.0.1",
-  "publisher": "EddyWilson",
+  "publisher": "Eddy Wilson",
+  "author": {
+    "name": "Eddy Wilson"
+  },
   "engines": {
     "vscode": "^1.42.0"
   },
   "categories": [
     "Themes"
   ],
+  "markdown": "github",
+  "keywords": [
+    "clean",
+    "elegant",
+    "dark",
+    "bluish",
+    "cyan",
+    "chingu",
+    "wine"
+  ],
+  "icon": "assets/extension-marketplace-icon.png",
+  "license": "MIT",
+  "homepage": "https://github.com/eddyw/azure-shades-vscode-theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eddyw/azure-shades-vscode-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/eddyw/azure-shades-vscode-theme/issues"
+  },
   "contributes": {
     "themes": [
       {
