@@ -9,7 +9,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/eddyw/azure-shades-vscode-theme" target="_blank">
-    <img src="https://img.shields.io/badge/version-v0.0.1-508AAA?logo=github" />
+    <img src="https://img.shields.io/badge/version-v0.0.2-508AAA?logo=github" />
   </a>
 </p>
 <hr />
