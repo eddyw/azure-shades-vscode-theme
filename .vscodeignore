@@ -5,5 +5,8 @@
 yarn.lock
 template/**
 scripts/**
-vsc-extension-quickstart.md
 node_modules
+tests-local
+!assets/extension-marketplace-icon.png
+!assets/extension-marketplace-icon-2x.png
+assets/**
