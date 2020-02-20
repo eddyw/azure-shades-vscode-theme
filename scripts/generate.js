@@ -189,7 +189,7 @@ const roseTheme = produce(template, draft => {
 
 const FILE_DEFAULT_THEME = path.resolve(__dirname, '..', 'themes', 'Azure Shades – Default-color-theme.json')
 const FILE_CHINGU_THEME = path.resolve(__dirname, '..', 'themes', 'Azure Shades – Chingu-color-theme.json')
-const FILE_PEARLY_THEME = path.resolve(__dirname, '..', 'themes', 'Azure Shades – Pearly-color-theme.json')
+const FILE_PEARLY_THEME = path.resolve(__dirname, '..', 'themes', 'Azure Shades – Wine-color-theme.json')
 const FILE_ROSE_THEME = path.resolve(__dirname, '..', 'themes', 'Azure Shades – Rose-color-theme.json')
 
 fs.writeFileSync(FILE_DEFAULT_THEME, JSON.stringify(defaultTheme, null, 2))
