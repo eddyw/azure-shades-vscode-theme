@@ -235,10 +235,41 @@
   },
   "tokenColors": [
     {
-      "name": "Variable",
-      "scope": "variable.other",
+      "name": "Semantic(variable)",
+      "scope": [
+        "variable.other.readwrite",
+        "entity.name.variable"
+      ],
       "settings": {
         "foreground": "#e2e7ef"
+      }
+    },
+    {
+      "name": "Semantic(variable.readonly)",
+      "scope": [
+        "variable.other",
+        "variable.other.constant"
+      ],
+      "settings": {
+        "foreground": "#e2e7ef"
+      }
+    },
+    {
+      "name": "Semantic(property)",
+      "scope": [
+        "variable.other.property"
+      ],
+      "settings": {
+        "foreground": "#c16e6e"
+      }
+    },
+    {
+      "name": "Semantic(property.readOnly)",
+      "scope": [
+        "variable.other.constant.property"
+      ],
+      "settings": {
+        "foreground": "#c16e6e"
       }
     },
     {
@@ -759,8 +790,7 @@
       "scope": [
         "variable",
         "meta.definition.variable.name",
-        "support.variable",
-        "entity.name.variable"
+        "support.variable"
       ],
       "settings": {
         "foreground": "#c16e6e"

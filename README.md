@@ -9,7 +9,13 @@
 </p>
 <p align="center">
   <a href="https://github.com/eddyw/azure-shades-vscode-theme" target="_blank">
-    <img src="https://img.shields.io/badge/version-v0.0.2-508AAA?logo=github" />
+    <img src="https://img.shields.io/badge/version-v0.0.3-508AAA?logo=github" />
+  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=eddyw.azure-shades" target="_blank">
+    <img src="https://img.shields.io/badge/Extension%20Marketplace-v0.0.3-508AAA?logo=visual-studio-code" />
+  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=eddyw.azure-shades" target="_blank">
+    <img src="https://img.shields.io/badge/Semantic%20Highlighting%20Support-Yes-508AAA?logo=visual-studio-code" />
   </a>
 </p>
 <hr />

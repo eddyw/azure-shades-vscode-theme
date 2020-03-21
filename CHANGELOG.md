@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.0.3 – 2020-03-21
+
+- add support for semantic highlighting
+
 ## 0.0.2 – 2020-02-20
 - Published
 
