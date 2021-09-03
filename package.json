@@ -63,7 +63,7 @@
     "publish": "vsce publish"
   },
   "devDependencies": {
-    "immer": "^5.3.6",
+    "immer": "^9.0.6",
     "vsce": "^1.73.0"
   }
 }
